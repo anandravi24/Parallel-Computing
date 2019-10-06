@@ -1,3 +1,7 @@
+// Name : Anand Ravi
+
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
@@ -29,11 +33,9 @@ int main(int argc,char *argv[]){
 				
 		if( clock_gettime(CLOCK_REALTIME, &start) == -1) { perror("clock gettime");}
 		
-		// Your code goes here //
+	
 		// Matrix C = Matrix A * Matrix B //	
 		//*******************************//
-
-
 		for(int i = 0; i < m; i++)
 			for(int j = 0; j < m; j++)
 				for(int k = 0; k< m; k++)
@@ -42,10 +44,6 @@ int main(int argc,char *argv[]){
 							for(int z = k*b; z < (k+1)*b; z++)
 								C[u][v] = C[u][v] + (A[u][z] * B[z][v]);
 
-
-
-		
-		
 		//*******************************//
 		
 		if( clock_gettime( CLOCK_REALTIME, &stop) == -1 ) { perror("clock gettime");}		
