@@ -1,1 +1,1 @@
-[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf)
+[Report.pdf](https://github.com/anandravi24/Parallel-Computing/blob/master/HW2/report.pdf)
