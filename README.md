@@ -3,4 +3,4 @@
  
 Homework 1: Matrix Multiplication using efficient cache usage [HW1](https://github.com/anandravi24/Parallel-Computing/blob/master//Single-Thread-BlockvsNaive-Multiplication/)
 
-Homework 1: Matrix Multiplication and K means clustering using Pthreads [HW1](https://github.com/anandravi24/Parallel-Computing/blob/master/HW2/)
+Homework 2: Matrix Multiplication and K means clustering using Pthreads [HW2](https://github.com/anandravi24/Parallel-Computing/blob/master/HW2/)
