@@ -2,7 +2,7 @@
 
 **Name: Anand Ravi**
 
-**System Properties: **<br>
+**System Properties:**<br>
 Processor : Intel Core i3-6100U<br>
 Number of Cores: 4<br>
 Operating System: Ubuntu 16.04<br>
