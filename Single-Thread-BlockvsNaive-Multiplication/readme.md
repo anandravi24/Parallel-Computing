@@ -28,3 +28,5 @@ Average performance = ( 273 + 272 ) / 2 = 273.5 MFLOPS/sec<br>
 Number of Runs = 2<br>
 Average execution time = ( 496 + 498 ) / 2 = 497 Seconds<br>
 Average performance = ( 277 + 275 ) / 2 = 276 MFLOPS/sec<br>
+
+![Execution Time](/master/blog/Single-Thread-BlockvsNaive-Multiplication/graphs/Execution-time.PNG)
