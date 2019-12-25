@@ -32,3 +32,9 @@ Average performance = ( 277 + 275 ) / 2 = 276 MFLOPS/sec<br>
 <p align="center">
 <img src="https://github.com/anandravi24/Parallel-Computing/blob/master/Single-Thread-BlockvsNaive-Multiplication/graphs/Execution-time.PNG"/>
 </p>
+
+<br><br>
+
+<p align="center">
+<img src="https://github.com/anandravi24/Parallel-Computing/blob/master/Single-Thread-BlockvsNaive-Multiplication/graphs/performance.PNG"/>
+</p>
