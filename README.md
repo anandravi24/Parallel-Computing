@@ -7,4 +7,6 @@ Homework 2: Matrix Multiplication and K means clustering using Pthreads [HW2](ht
 
 Homework 3: OpenMP (Coming Soor)
 
-Homework 4: CUDA (COming Soon)
+Homework 4: CUDA (Coming Soon)
+
+Homework 5: MPI (Coming Soon)
